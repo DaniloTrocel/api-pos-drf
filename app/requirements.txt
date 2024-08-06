@@ -1,0 +1,10 @@
+django==4.2
+djangorestframework
+cloudinary
+djangorestframework-simplejwt
+drf-yasg
+setuptools
+psycopg2
+django-cors-headers
+python-decouple
+gunicorn
